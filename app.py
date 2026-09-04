@@ -6,7 +6,7 @@ Supports both Groq API and local TinyLlama model.
 
 Run:
     py -3.12 -m pip install -r requirements.txt
-    copy .env.example .env   (then put your GROQ_API_KEY inside)
+    copy .env.example .env
     py -3.12 -m streamlit run app.py
 """
 
